@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**aidinattar/aidinattar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's degree student in Physics of Data at the University of Padua. 
+### Contact info:
+* E-mail: aidinattar@studenti.unipd.it, attaraidin@gmail.com
 
-Here are some ideas to get you started:
+[![Aidin's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidin-attar-684637210/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats:
+
+![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=aidinattar&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
+
+[![Aidin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidinattar&show_icons=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&langs_count=8&show_icons=true&theme=graywhite&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
