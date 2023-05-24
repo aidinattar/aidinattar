@@ -3,7 +3,7 @@
 ![github_cover_banner](banner.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Passionate data scientist and enthusiast with a background in physics. I have a deep interest in data analysis and its applications in various domains. Alongside my love for data, I have a strong affinity for cinema, economics and politics. I enjoy exploring the insights that data can provide in these areas, uncovering meaningful patterns and trends. My goal is to use data to gain valuable insights and contribute to informed decision-making. Join me as I delve into the fascinating world of data, explore its potential, and unravel its stories.
+    Passionate data scientist and enthusiast with a background in physics. I have a deep interest in data analysis and its applications in various domains. Alongside my love for data, I have a strong affinity for cinema, economics and politics. I enjoy exploring the insights that data can provide in these areas, uncovering meaningful patterns and trends. My goal is to use data to gain valuable insights and contribute to informed decision-making.
 <br>
 <br>
 <div align="center">
