@@ -108,9 +108,11 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![aidinattar's Stats](https://github-readme-stats.vercel.app/api?username=aidinattar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![aidinattar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aidinattar&theme=vue-dark&hide_border=false)
-![aidinattar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![aidinattar's Stats](https://github-readme-stats.vercel.app/api?username=aidinattar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![aidinattar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aidinattar&theme=tokyonight&hide_border=true)
+
+![aidinattar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <!--  End Stats Cards -->
 
 ---
