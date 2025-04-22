@@ -108,15 +108,9 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aidinattar&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aidinattar&count_private=true&theme=algolia&border_radius=20)
-
-<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&show_icons=true&theme=algolia&border_radius=20)-->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
+![aidinattar's Stats](https://github-readme-stats.vercel.app/api?username=aidinattar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![aidinattar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aidinattar&theme=vue-dark&hide_border=false)
+![aidinattar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aidinattar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <!--  End Stats Cards -->
 
 ---
